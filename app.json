@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "rnmapbox_broken",
+    "slug": "rnmapbox_broken",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "rnmapbox_broken"
+}
